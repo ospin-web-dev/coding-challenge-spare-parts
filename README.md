@@ -4,9 +4,9 @@ We are excited to be taking the next steps with you as a candidate! Our team has
 
 ---
 ## Overview
-The year is 2042 and OSPIN's spin-off company, **O**rgan **S**pare **P**arts **IN**dustries, is a successful global business selling lab grown replacement organs for humans. Heart getting a little sluggish? No problem! Simply buy a new one through the online organ webshop and voila - you are back in action before you know it. As convenient as it is dystopian!
+The year is 2042 and OSPIN's spin-off company, **O**rgan **S**pare **P**arts **IN**dustries, is a successful global business selling lab grown replacement organs for humans. Heart getting a little sluggish? No problem! Simply buy a new one through the online organ webshop and voilà - you are back in action before you know it. As convenient as it is dystopian!
 
-As a part of a larger promotion, your team has been tasked with creating a rebate system to encourage sales. The head of marketing had the revolutionary idea that, whenever a customer purchases a certain amount of a specific type of organs, they are eligible to receive additional free organ(s)! For example, the promotion scheme could be structured as follows:
+As a part of a larger promotion, your team has been tasked with creating a rebate system to encourage sales. The head of marketing had the revolutionary idea that, whenever a customer purchases a certain amount of a specific type of organ, they are eligible to receive additional free organ(s)! For example, the promotion scheme could be structured as follows:
 
 | organs (N) purchased | free organ(s) received|
 |----------------------|-----------------------|
