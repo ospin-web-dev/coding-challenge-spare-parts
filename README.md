@@ -1,4 +1,4 @@
-# OSPIN Front-End Code Challenge
+# OSPIN Code Challenge
 
 We are excited to be taking the next steps with you as a candidate! Our team has a straight forward code challenge for you to complete. We value your time, and while you are free to spend as much time on the challenge as you wish, we expect it to be completable _within three hours_. If you need more than 5 days to complete the code challenge, please let us know.
 
