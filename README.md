@@ -68,6 +68,9 @@ Please provide a README in your submission which describes your solution, reason
 **Q:** May I use dependencies not currently listed?  
 **A:** Please do not use external libraries/frameworks/packages with the exception of the following: testing libraries, a CSV library, linting libraries
 
+**Q:** How should the results be shown?  
+**A:** Please write the results to STDOUT in the format provided above in the 'Example Order Output'
+
 **Q:** Will you be reviewing Git history?  
 **A:** Yes! Please provide a structured and readable Git history. This should mimic a real feature + PR completion, and will be read as such.
 
