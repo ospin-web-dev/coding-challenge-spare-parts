@@ -1,6 +1,6 @@
 # OSPIN Code Challenge
 
-We are excited to be taking the next steps with you as a candidate! Our team has a straight forward code challenge for you to complete. We value your time, and while you are free to spend as much time on the challenge as you wish, we expect it to be completable _within three hours_. This challenge is not-timed, and we will consider your solution independent of however long it took to complete. If you need more than 5 daysin total to complete the code challenge, please let us know so that we can plan accordingly.
+We are excited to be taking the next steps with you as a candidate! Our team has a straight forward code challenge for you to complete. We value your time, and while you are free to spend as much time on the challenge as you wish, we expect it to be completable _within three hours_. This challenge is not-timed, and we will consider your solution independent of however long it took to complete. If you need more than 5 days in total to complete the code challenge, please let us know so that we can plan accordingly.
 
 ---
 ## Overview
