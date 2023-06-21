@@ -55,7 +55,8 @@ We are assessing the code challenge solution based on the following:
 - Extensible and comprehensive unit/acceptance tests
 - Use of design patterns and language specific standards
 
-We are _not_ assessing the code challenge for scaling performance! After all, its the year 2042 and performance problems are now just a bad memory of the 2020s!
+
+We are _not_ assessing the code challenge for scaling performance! After all, its the year 2042 and performance problems are now just a bad memory of the 2020s! However, our marketing department plans to use this feature actively, so we expect this feature to be production-ready. Just imagine that you'll have to support it until 2062. 
 
 Please provide a README in your submission which describes your solution, reasons for design decisions taken, and how we can run your program + tests!
 
